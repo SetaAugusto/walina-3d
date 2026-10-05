@@ -1,0 +1,29 @@
+{
+  "name": "walina-3d",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SetaAugusto/walina-3d.git"
+  },
+  "keywords": [],
+  "author": "Augusto Lújan Seta, Camila Celeste Schumacher, Nicolas Denoia, Karim Julian Fij, Matias Andrenacci",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/SetaAugusto/walina-3d/issues"
+  },
+  "homepage": "https://github.com/SetaAugusto/walina-3d#readme",
+  "dependencies": {
+    "bcryptjs": "^3.0.3",
+    "dotenv": "^18.0.5",
+    "express": "^5.2.1",
+    "express-session": "^1.19.0",
+    "multer": "^2.4.0",
+    "pg": "^8.23.1"
+  }
+}
